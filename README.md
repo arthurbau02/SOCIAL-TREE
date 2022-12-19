@@ -3,5 +3,9 @@
 # 💻 Projeto:
 Uma página com uma lista de links que pode ser usada em perfis de redes sociais. 
 # 🚀 Tecnologias utilizadas:
-HTML
-CSS
+<ul type=disc>
+  <li> HTML </li>
+  <li> CSS </li>
+</ul>
+
+
