@@ -16,7 +16,7 @@
     body,
     html {
     font-family: 'Poppins', sans-serif;
-    background: var(--white-ligth);
+    background: white;
   }
 
   .container {
