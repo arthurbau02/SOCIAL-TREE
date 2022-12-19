@@ -1,2 +1,7 @@
 # 🙇‍♂️ SOCIAL-TREE
-![Imagem](https://user-images.githubusercontent.com/105330857/208347535-05c5b95e-7a43-4e19-81fa-2b3b471fddc5.png)
+![background](https://user-images.githubusercontent.com/105330857/208349253-8f345a14-037e-42d7-8d76-cc56ddb9f7ee.png)
+# 💻 Projeto:
+Uma página com uma lista de links que pode ser usada em perfis de redes sociais. Inpirado no Desafios Rocketseat.
+# 🚀 Tecnologias utilizadas:
+HTML
+CSS
